@@ -1,0 +1,6 @@
+c:\users\danilo305\documents\visual studio 2015\Projects\LakeMusical\LakeMusical\bin\Debug\LakeMusical.exe.config
+c:\users\danilo305\documents\visual studio 2015\Projects\LakeMusical\LakeMusical\bin\Debug\LakeMusical.exe
+c:\users\danilo305\documents\visual studio 2015\Projects\LakeMusical\LakeMusical\bin\Debug\LakeMusical.pdb
+c:\users\danilo305\documents\visual studio 2015\Projects\LakeMusical\LakeMusical\obj\Debug\LakeMusical.csprojResolveAssemblyReference.cache
+c:\users\danilo305\documents\visual studio 2015\Projects\LakeMusical\LakeMusical\obj\Debug\LakeMusical.exe
+c:\users\danilo305\documents\visual studio 2015\Projects\LakeMusical\LakeMusical\obj\Debug\LakeMusical.pdb
